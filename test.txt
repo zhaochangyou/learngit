@@ -1,3 +1,4 @@
 this is a test file.
 test git push origin master
 createing a new branch is quick.
+this is a test merge.
